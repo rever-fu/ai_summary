@@ -1,0 +1,7 @@
+{
+    "name": "ai_summary",
+    "description": "AI Summarization using Gemini and Qwen APIs",
+    "author": "rever",
+    "version": "4.8",
+    "requires_api": 2
+}
