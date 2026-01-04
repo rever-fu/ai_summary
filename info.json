@@ -1,0 +1,7 @@
+{
+    "name": "ai_summary",
+    "description": "AI Summarization (System Hook Mode - No RPC)",
+    "author": "YourName",
+    "version": "7.2",
+    "requires_api": 2
+}
